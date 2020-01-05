@@ -1,5 +1,5 @@
 require "sinatra"
 
-get "/"
-    "HcUy6Re2LLBRtj"
+get "/" do
+    erb :index
 end
